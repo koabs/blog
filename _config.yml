@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: BkWater
 subtitle:
 description:
 keywords:
-author: John Doe
+author: BkWater
 language:
 timezone:
 
@@ -54,7 +54,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: inbox
 category_map:
 tag_map:
 
